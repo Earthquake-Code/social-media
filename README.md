@@ -25,6 +25,7 @@ Tabelas
 Para criar uma tabela, escolha os títulos das colunas e use | para delimitar as colunas.
 
 
-Este blog tem como objetivo:
+Deve ser possível:
 
-1. 
+1. Criar uma conta.
+2. Entrar em uma conta já criada
