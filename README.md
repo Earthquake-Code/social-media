@@ -28,4 +28,9 @@ Para criar uma tabela, escolha os títulos das colunas e use | para delimitar as
 Deve ser possível:
 
 1. Criar uma conta.
-2. Entrar em uma conta já criada
+2. Entrar em uma conta já criada.
+3. Postar algo, este deve possuir: tag, assunto, descrição, título, imagem (opcional), criador e chat online entre os usuários na postagem.
+4. Ver postagens já feitas por alguém.
+5. Sair da conta.
+6. Desativar conta.
+7. Mudar atributos da conta.
