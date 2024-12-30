@@ -25,4 +25,6 @@ Tabelas
 Para criar uma tabela, escolha os títulos das colunas e use | para delimitar as colunas.
 
 
+Este blog tem como objetivo:
 
+1. 
