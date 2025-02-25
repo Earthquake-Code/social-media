@@ -15,4 +15,5 @@ This app is a Social Media, with the object to connect people and find common in
 
 ---
 
-📌 Developed by **Gustavo Floriano** and **Johann Gossen Ruth** <a href="[https://github.com/gfloriano11](https://github.com/Earthquake-Code)">EarthQuake Code Organization</a> 🚀
+📌 Developed by **Gustavo Floriano** and **Johann Gossen Ruth** 
+<a href="https://github.com/Earthquake-Code">EarthQuake Code Organization</a> 🚀
