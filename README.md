@@ -7,7 +7,7 @@ This app is a Social Media, with the object to connect people and find common in
 ## 🧑‍💻 Technology
 
 - HTML;
-- CSS;
+- TailwindCSS;
 - JavaScript
 - React JS;
 - PHP;
